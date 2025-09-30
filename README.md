@@ -1,7 +1,7 @@
 <h1 align="center">Hi 🦅, I'm Pranay Anand</h1>
 <h3 align="center">🎯 Data Enthusiast | SQL Explorer | BI Practitioner | Lifelong Learner</h3>
 <p align="center">
-  <img alt="coding" width="400" src="https://gifdb.com/images/high/iron-man-tony-stark-checking-out-1nmi7pdj4x2sfdpg.gif">
+  <img alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDg1dzZlYTQ2dzdkdTI1NXRnY3RjMHBsbzlqbXN0dzRtc21mNjBtMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1MwnwxYu69cNq/giphy.gif">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranay18062003&label=Profile%20views&color=0e75b6&style=flat" alt="pranay18062003" /> </p>
