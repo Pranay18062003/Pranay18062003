@@ -1,4 +1,5 @@
 <h1 align="center">Hi 🦅, I'm Pranay Anand</h1>
+<h5 align="center">Love You 3000 💗</h5>
 <h3 align="center">🎯 Data Enthusiast | SQL Explorer | BI Practitioner | Lifelong Learner</h3>
 <p align="center">
   <img alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aDg1dzZlYTQ2dzdkdTI1NXRnY3RjMHBsbzlqbXN0dzRtc21mNjBtMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1MwnwxYu69cNq/giphy.gif">
