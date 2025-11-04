@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **ADVANCE SQL, POWERBI, LARAVEL**
 
-- 👨‍💻 All of my projects are available at [https://heartfelt-marshmallow-759c03.netlify.app/](https://heartfelt-marshmallow-759c03.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://boisterous-melba-af3160.netlify.app)
 
 - 💬 Ask me about **SQL, POWERBI, PYTHON, PHP, HTML, CSS**
 
