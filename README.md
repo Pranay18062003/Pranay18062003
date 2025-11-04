@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🦅, I'm Pranay Anand <h5 align="center">Trust Me 3000 🦅</h5></h1>
-<h3 align="center">🎯 Data Enthusiast | SQL Explorer | BI Practitioner | Lifelong Learner</h3>
+<h3 align="center">🎯 Data Enthusiast | SQL Explorer | BI Practitioner | Digital Design Enthusiast |Lifelong Learner</h3>
 <p align="center">
   <img alt="coding" width="250" src="https://makerworld.bblmw.com/makerworld/model/DSM00000000226299/design/2024-03-04_67f328cf7ff7.png?x-oss-process=image/resize,w_1000/format,webp">
 </p>
